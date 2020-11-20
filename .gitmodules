@@ -1,3 +1,6 @@
 [submodule "financial-tracker.server"]
 	path = financial-tracker.server
 	url = https://github.com/SergiyMolchan/financial-tracker.server
+[submodule "financial-tracker.web-client"]
+	path = financial-tracker.web-client
+	url = https://github.com/SergiyMolchan/financial-tracker.web-client
